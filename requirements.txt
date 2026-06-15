@@ -1,0 +1,7 @@
+requests
+pandas
+torch
+beautifulsoup4
+selenium
+transformers
+python-dotenv
